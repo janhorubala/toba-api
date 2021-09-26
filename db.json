@@ -1,0 +1,154 @@
+{
+  "daily": {
+    "name": "Pytanie dnia - środa",
+    "steps": [
+      {
+        "id": 12,
+        "text": "Jakie jest Twoje najwspanialsze wspomnienie związane z drugą osobą?"
+      },
+      {
+        "id": 13,
+        "text": "O czym marzyłeś_aś 10 lat temu?"
+      },
+      {
+        "id": 14,
+        "text": "Jakie jest Twoje wymarzone miejsce do życia?"
+      }
+    ]
+  },
+  "quest": [
+    {
+      "id": 1,
+      "name": "Powiew\nświeżości",
+      "premium": false,
+      "text": "Naukowcy psychologowie mówią, że żeby się sobą nie znudzić warto co jakiś czas próbować razem nowych rzeczy. Badania wskazały, że pary które wciąż odkrywają się na nowo mają wyższą satysfakcję ze związku i rzadziej się rozwodzą",
+      "tasks": [
+        {
+          "name": "Bycie",
+          "premium": false,
+          "steps": "To już ostatni dzień tego wyzwania. \nRobienie nowych rzeczy jest fajne, ale świeże może być także spojrzenie.\nWybierzcie na dziś jedną rzecz, którą lubicie robić razem - to może być czytanie książek, oglądanie serialu, taniec. \nI cieszcie się sobą, pamiętając, że druga osoba to nie pewnik i stała. \nDruga osoba to dar."
+        },
+        {
+          "name": "Jedzenie",
+          "premium": true,
+          "steps": "Dziś na kolację zamów coś, czego nie jadacie na codzień.\nNiech ten zwykły wieczór będzie odświętny.\nJeśli macie dzieci, usiądźcie razem przy stole.###Otwórz się na nowe.\nDoceń to, co masz.\nCo na codzień robi dla Ciebie i Waszego domu partnerka, a do czego się tak przyzwyczaiłeś, że tego nie zauważasz? W tym tygodniu dostrzegaj, doceniaj i dziękuj."
+        },
+        {
+          "name": "Kwiaty",
+          "premium": true,
+          "steps": "Na dziś nie mamy dla Ciebie zadania.\nMożesz spędzić ten dzień ciesząc się z codziennego wysiłku, jaki Twój partner wkłada w Wasze wspólne życie. \nWynosi śmieci? Gotuje? Tankuje samochód? Ciesz się tym! W byciu razem chodzi także o to, żeby wspierać się w codzienności.###Czy wiesz, jakie kwiaty lubi Twoja partnerka? Jeśli nie, to dziś zaryzykuj, ale na przyszłość też warto się tego dowiedzieć! \nPrzynieś swojej partnerce kwiaty. Proste gesty to jeden ze sposobów wyrażania miłości."
+        },
+        {
+          "name": "Selfie",
+          "premium": true,
+          "steps": "Czy macie ładne zdjęcia razem? \nZróbcie sobie dzisiaj selfie. \nUbierzcie się w rzeczy, które lubicie, zadbajcie o włosy i makijaż. Wybierzcie tło. \nNigdy nie wiecie, kiedy będziecie potrzebowali ładnego zdjęcia razem!"
+        },
+        {
+          "name": "Cisza",
+          "premium": true,
+          "steps": "Pierwsze zadanie może wydać Wam się dziwne\nNo bo jak zbliżać się do siebie milcząc? \nCisza pozawala nam dostrzec rzeczy których nie widzieliśmy\nI spotkać się inaczej\nSpędźcie jeden dzień ze sobą w ciszy. Komunikujcie się tylko, gdy to konieczne. \nPorozmawiajcie ze sobą dopiero wieczorem, przed snem."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Basics",
+      "premium": true,
+      "text": "Romantyczne początki są super, ale związek to także ciężka praca. Od jakości komunikacji zależy, czy para jest w stanie rozwiązywać problemy, radzić sobie z nieporozumieniami i pokonywać kryzysy. W tym programie zachęcamy Was do przypomnienia sobie rzeczy oczywistych.",
+      "tasks": [
+        {
+          "name": "Bycie",
+          "premium": false,
+          "steps": "To już ostatni dzień tego wyzwania. \nRobienie nowych rzeczy jest fajne, ale świeże może być także spojrzenie.\nWybierzcie na dziś jedną rzecz, którą lubicie robić razem - to może być czytanie książek, oglądanie serialu, taniec. \nI cieszcie się sobą, pamiętając, że druga osoba to nie pewnik i stała. \nDruga osoba to dar."
+        },
+        {
+          "name": "Jedzenie",
+          "premium": true,
+          "steps": "Dziś na kolację zamów coś, czego nie jadacie na codzień. \nNiech ten zwykły wieczór będzie odświętny. \nJeśli macie dzieci, usiądźcie razem przy stole.\n###Otwórz się na nowe.\nDoceń to, co masz. \nCo na codzień robi dla Ciebie i Waszego domu partnerka, a do czego się tak przyzwyczaiłeś, że tego nie zauważasz? W tym tygodniu dostrzegaj, doceniaj i dziękuj."
+        },
+        {
+          "name": "Kwiaty",
+          "premium": true,
+          "steps": "Na dziś nie mamy dla Ciebie zadania.\nMożesz spędzić ten dzień ciesząc się z codziennego wysiłku, jaki Twój partner wkłada w Wasze wspólne życie. \nWynosi śmieci? Gotuje? Tankuje samochód? Ciesz się tym! W byciu razem chodzi także o to, żeby wspierać się w codzienności.\n###Czy wiesz, jakie kwiaty lubi Twoja partnerka? Jeśli nie, to dziś zaryzykuj, ale na przyszłość też warto się tego dowiedzieć! \nPrzynieś swojej partnerce kwiaty. Proste gesty to jeden ze sposobów wyrażania miłości."
+        },
+        {
+          "name": "Selfie",
+          "premium": true,
+          "steps": "Czy macie ładne zdjęcia razem? \nZróbcie sobie dzisiaj selfie. \nUbierzcie się w rzeczy, które lubicie, zadbajcie o włosy i makijaż. Wybierzcie tło. \nNigdy nie wiecie, kiedy będziecie potrzebowali ładnego zdjęcia razem!"
+        },
+        {
+          "name": "Cisza",
+          "premium": true,
+          "steps": "Pierwsze zadanie może wydać Wam się dziwne\nNo bo jak zbliżać się do siebie milcząc? \nCisza pozawala nam dostrzec rzeczy których nie widzieliśmy\nI spotkać się inaczej\nSpędźcie jeden dzień ze sobą w ciszy. Komunikujcie się tylko, gdy to konieczne. \nPorozmawiajcie ze sobą dopiero wieczorem, przed snem."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rewolucja:\ndziecko",
+      "premium": true,
+      "text": "Pojawienie się dziecka to ogromna rewolucja. Funkcjonalna i emocjonalna. To normalne, że macie mniej czasu dla siebie, to normalne, że kobieta po porodzie miewa trudności emocjonalne. To normalne, że mężczyźnie nie jest łatwo odnaleźć się w nowej sytuacji. \n\nTen program to proste zadania, nie wymagające dużo czasu, które pozwolą Wam na bycie parą, a nie tylko rodzicami.",
+      "tasks": [
+        {
+          "name": "Bycie",
+          "premium": false,
+          "steps": "To już ostatni dzień tego wyzwania. \nRobienie nowych rzeczy jest fajne, ale świeże może być także spojrzenie.\nWybierzcie na dziś jedną rzecz, którą lubicie robić razem - to może być czytanie książek, oglądanie serialu, taniec. \nI cieszcie się sobą, pamiętając, że druga osoba to nie pewnik i stała. \nDruga osoba to dar."
+        },
+        {
+          "name": "Jedzenie",
+          "premium": true,
+          "steps": "Dziś na kolację zamów coś, czego nie jadacie na codzień. \nNiech ten zwykły wieczór będzie odświętny. \nJeśli macie dzieci, usiądźcie razem przy stole.\n###Otwórz się na nowe.\nDoceń to, co masz. \nCo na codzień robi dla Ciebie i Waszego domu partnerka, a do czego się tak przyzwyczaiłeś, że tego nie zauważasz? W tym tygodniu dostrzegaj, doceniaj i dziękuj."
+        },
+        {
+          "name": "Kwiaty",
+          "premium": true,
+          "steps": "Na dziś nie mamy dla Ciebie zadania.\nMożesz spędzić ten dzień ciesząc się z codziennego wysiłku, jaki Twój partner wkłada w Wasze wspólne życie. \nWynosi śmieci? Gotuje? Tankuje samochód? Ciesz się tym! W byciu razem chodzi także o to, żeby wspierać się w codzienności.\n###Czy wiesz, jakie kwiaty lubi Twoja partnerka? Jeśli nie, to dziś zaryzykuj, ale na przyszłość też warto się tego dowiedzieć! \nPrzynieś swojej partnerce kwiaty. Proste gesty to jeden ze sposobów wyrażania miłości."
+        },
+        {
+          "name": "Selfie",
+          "premium": true,
+          "steps": "Czy macie ładne zdjęcia razem? \nZróbcie sobie dzisiaj selfie. \nUbierzcie się w rzeczy, które lubicie, zadbajcie o włosy i makijaż. Wybierzcie tło. \nNigdy nie wiecie, kiedy będziecie potrzebowali ładnego zdjęcia razem!"
+        },
+        {
+          "name": "Cisza",
+          "premium": true,
+          "steps": "Pierwsze zadanie może wydać Wam się dziwne\nNo bo jak zbliżać się do siebie milcząc? \nCisza pozawala nam dostrzec rzeczy których nie widzieliśmy\nI spotkać się inaczej\nSpędźcie jeden dzień ze sobą w ciszy. Komunikujcie się tylko, gdy to konieczne. \nPorozmawiajcie ze sobą dopiero wieczorem, przed snem."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bycie\nrazem",
+      "premium": true,
+      "text": "Pojawienie się dziecka to ogromna rewolucja. Funkcjonalna i emocjonalna. To normalne, że macie mniej czasu dla siebie, to normalne, że kobieta po porodzie miewa trudności emocjonalne. To normalne, że mężczyźnie nie jest łatwo odnaleźć się w nowej sytuacji. \n\nTen program to proste zadania, nie wymagające dużo czasu, które pozwolą Wam na bycie parą, a nie tylko rodzicami.",
+      "tasks": [
+        {
+          "name": "Bycie",
+          "premium": false,
+          "steps": "To już ostatni dzień tego wyzwania. \nRobienie nowych rzeczy jest fajne, ale świeże może być także spojrzenie.\nWybierzcie na dziś jedną rzecz, którą lubicie robić razem - to może być czytanie książek, oglądanie serialu, taniec. \nI cieszcie się sobą, pamiętając, że druga osoba to nie pewnik i stała. \nDruga osoba to dar."
+        },
+        {
+          "name": "Jedzenie",
+          "premium": true,
+          "steps": "Dziś na kolację zamów coś, czego nie jadacie na codzień. \nNiech ten zwykły wieczór będzie odświętny. \nJeśli macie dzieci, usiądźcie razem przy stole.\n###Otwórz się na nowe.\nDoceń to, co masz. \nCo na codzień robi dla Ciebie i Waszego domu partnerka, a do czego się tak przyzwyczaiłeś, że tego nie zauważasz? W tym tygodniu dostrzegaj, doceniaj i dziękuj."
+        },
+        {
+          "name": "Kwiaty",
+          "premium": true,
+          "steps": "Na dziś nie mamy dla Ciebie zadania.\nMożesz spędzić ten dzień ciesząc się z codziennego wysiłku, jaki Twój partner wkłada w Wasze wspólne życie. \nWynosi śmieci? Gotuje? Tankuje samochód? Ciesz się tym! W byciu razem chodzi także o to, żeby wspierać się w codzienności.\n###Czy wiesz, jakie kwiaty lubi Twoja partnerka? Jeśli nie, to dziś zaryzykuj, ale na przyszłość też warto się tego dowiedzieć! \nPrzynieś swojej partnerce kwiaty. Proste gesty to jeden ze sposobów wyrażania miłości."
+        },
+        {
+          "name": "Selfie",
+          "premium": true,
+          "steps": "Czy macie ładne zdjęcia razem? \nZróbcie sobie dzisiaj selfie. \nUbierzcie się w rzeczy, które lubicie, zadbajcie o włosy i makijaż. Wybierzcie tło. \nNigdy nie wiecie, kiedy będziecie potrzebowali ładnego zdjęcia razem!"
+        },
+        {
+          "name": "Cisza",
+          "premium": true,
+          "steps": "Pierwsze zadanie może wydać Wam się dziwne\nNo bo jak zbliżać się do siebie milcząc? \nCisza pozawala nam dostrzec rzeczy których nie widzieliśmy\nI spotkać się inaczej\nSpędźcie jeden dzień ze sobą w ciszy. Komunikujcie się tylko, gdy to konieczne. \nPorozmawiajcie ze sobą dopiero wieczorem, przed snem."
+        }
+      ]
+    }
+  ]
+}
+  
